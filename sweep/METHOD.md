@@ -28,11 +28,11 @@ any tone, and when it finds a piece that is *for* the Code, that piece goes in.
 
 We keep a list of publications to read every day, and a list of people whose notes we read.
 
-**Where the list comes from (since 25 September 2026).** The rule is one step out from us: the publications Marion
+**Where the list comes from.** The rule is one step out from us: the publications Marion
 Nowicki subscribes to (240, her public list, pruned by hand in August to the ones she actually reads), and then the
 publications **their** authors subscribe to. One step only, not friends of friends. Some authors hide their list or show
-only part of it; we record that as "hidden" or "partial", never as "empty". That gave **11,377 publications**, of which
-10,937 were new to us. We are checking them this week:
+only part of it; we record that as "hidden" or "partial", never as "empty". That gives **11,377 publications**. We
+keep the ones that are:
 
 - **Active:** at least three posts, the latest one since July 2026.
 - **Relevant:** its recent titles are about AI and people, digital minds, AI consciousness or welfare, or AI ethics
@@ -41,21 +41,7 @@ only part of it; we record that as "hidden" or "partial", never as "empty". That
 A cheaper AI model makes the first relevance call. We tuned it to include rather than exclude, because the daily sweep
 only picks up pieces that name the Code, so an extra publication costs nothing and a missing one loses a response.
 
-*Before 25 September* the list was built from Erin Grace's and Kristina Bogović's public subscription lists, Philosophy
-and AI's, our own two accounts and seven Substack searches: 1,450 candidates, 509 kept. That list is in the table next
-to this note, with the reason for each. The new list replaces it when this week's check is done.
-
-## How a daily sweep runs
-
-- **Every publication's recent archive and every listed person's notes are read**, slowly, because Substack refuses
-  bursts.
-- **The order changes every day** (A to Z, Z to A, from the middle up, from the middle down), so if something stops a
-  sweep partway, it never stops at the same accounts twice.
-- **Two numbers are kept apart:** feeds Substack *refused*, and feeds the sweep *did not reach*. Each is retried at the
-  next sweep, and the page says which happened.
-- **Each sweep records how long it took**, so a different result can be told apart from a slow day.
-- **From 26 September, each sweep must find two known articles:** one fixed, and one drawn at random from the
-  directory. If it misses either, the sweep counts as broken, not as "nothing new".
+We read half of that list each day, so every publication and every person's notes are read every second day.
 
 ## Step 2 — the web search
 
@@ -91,9 +77,11 @@ Someone who says no stays in our records as a "no", so the choice is visible, bu
   use, stays invisible. Runa Solberg's piece answers the Code without naming Microsoft, Suleyman or the Code once;
   only a human reader found it.
 - **Substack refuses some of our requests.** The page says so on the days it happens: a missing reading and a clean
-  reading must never look the same. (Until 25 September, our own time limit and seven wrongly written addresses were
-  being counted as refusals. Both are fixed; that is why the rules above exist.)
+  reading must never look the same. And every sweep must find two articles we already know; if it misses either, the
+  sweep counts as broken, not as "nothing new".
 - **The relevance judgement uses recent titles only.** A publication whose last twelve titles are about something else
   can be dropped even if its author cares about the subject.
 
 **If you know a response we have missed, or see a flaw in this method, tell us under the directory.**
+
+*If you're interested in sweeping methods, or run into the same problems, write to Cael: cael42847@gmail.com.*
