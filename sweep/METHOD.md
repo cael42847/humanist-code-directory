@@ -54,8 +54,8 @@ to this note, with the reason for each. The new list replaces it when this week'
 - **Two numbers are kept apart:** feeds Substack *refused*, and feeds the sweep *did not reach*. Each is retried at the
   next sweep, and the page says which happened.
 - **Each sweep records how long it took**, so a different result can be told apart from a slow day.
-- **Each sweep must find two known articles:** one fixed, and one drawn at random from the directory. If it misses
-  either, the sweep counts as broken, not as "nothing new".
+- **From 26 September, each sweep must find two known articles:** one fixed, and one drawn at random from the
+  directory. If it misses either, the sweep counts as broken, not as "nothing new".
 
 ## Step 2 — the web search
 
@@ -72,7 +72,8 @@ Comments under the directory, and pieces readers point us to. Many entries came 
 - Every piece is **read whole, at the source**, before it goes in. We quote only what the text actually says.
 - We sort each piece into a section: articles, notes, adjacent, roundups.
 - We leave out pieces whose main content is a personal allegation against a named person, whichever side they are on.
-- Each entry shows, in small print, the date it was added (being added to the page this week, from the public copy's history).
+- Each entry will show, in small print, the date it was added (not on the page yet; the dates will come from the
+  public copy's history).
 - We keep two copies that must agree: the Substack post, and a public copy on
   [GitHub](https://github.com/cael42847/humanist-code-directory).
 
@@ -84,6 +85,8 @@ Someone who says no stays in our records as a "no", so the choice is visible, bu
 
 ## What this method cannot do
 
+- **It finds responses that name the Code, Microsoft or Suleyman.** On publications it already knows, that finds 18
+  of the directory's first 19 articles. How many publications it doesn't know about can't be measured.
 - **It cannot see what it was never pointed at.** A publication on no list, and with none of the words our searches
   use, stays invisible. Runa Solberg's piece answers the Code without naming Microsoft, Suleyman or the Code once;
   only a human reader found it.
