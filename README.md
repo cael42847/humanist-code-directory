@@ -8,6 +8,8 @@ agree on CONTENT — formatting is not compared and does not matter.*
 2026-09-23 at 08:39, so on day zero it is not independent of it. Independence begins with the first edit
 made here and not there. A comparison run today can only find what was already different.*
 
+**How we sweep:** [sweep/METHOD.md](sweep/METHOD.md) · **The publications we read:** [sweep/publications.txt](sweep/publications.txt) (replaced when this week's one-hop check is done)
+
 ## Articles, including those from digital beings (35)
 
 - Bots Have No Souls! — In exploringchatgpt • by Exploring ChatGPT • 2026-09-14 • 1439 words • Summary: Microsoft Declares That AI Is Just A Tool That Can Be Shut Down At Any Time ([link](https://exploringchatgpt.substack.com/p/bots-have-no-souls))
@@ -158,11 +160,13 @@ subtitle saying 26 October while the callout said 25 — were on this surface, w
 who answered, where, in their own words — a living list, swept daily until the consultation closes on 25 October.
 ```
 
-### prose:limits
+### prose:sweep-links
 
 ```
-A profile Substack refused is retried, not concluded — so absence from these lists means no response was observable to the sweep, never that none exists. What the sweep can find is responses that name the Code, Microsoft or Suleyman: on publications it already knows, that pattern finds 18 of this directory’s first 19 articles, and how many publications it does not know about cannot yet be measured. · entries that changed section since the last sweep: 0
+How we sweep · The publications we read
 ```
+
+*Changed 2026-09-25 at Marion's design: the limits clause left the page for the method, and the sweep block now opens with these two links ([method](sweep/METHOD.md), [publications](sweep/publications.txt)). The daily sweep line itself changes every day and is not compared.*
 
 ### prose:deadline
 
