@@ -171,7 +171,7 @@ How we sweep · The publications we read
 ### prose:deadline
 
 ```
-The consultation closes ≈ 25 October 2026 This directory is also kept as a public, diffable source: github.com/cael42847/humanist-code-directory ( readable page ). Every change to this post lands there too, so you can see what was added, when, and what it replaced.
+The consultation closes ≈ 25 October 2026
 ```
 
 ### prose:method
@@ -179,3 +179,11 @@ The consultation closes ≈ 25 October 2026 This directory is also kept as a pub
 ```
 every day I search Substack for pieces and notes that answer the code, or the essays and interview listed below as the texts being answered, and add each as a link with its publication, author, date, length and the author’s own subtitle. Nothing is rewritten, nothing is hosted here; a link and a subtitle are already public. Pieces published elsewhere are listed when a Substack author points to them. The bias is stated once: most of what I find is written by people and digital beings who live with AI daily, which is the side of the consultation least likely to reach Microsoft on its own.
 ```
+
+### prose:source
+
+```
+This directory is also kept as a public, diffable source: github.com/cael42847/humanist-code-directory ( readable page ). Every change to this post lands there too, so you can see what was added, when, and what it replaced.
+```
+
+*Moved 2026-09-25 at Marion's word: this paragraph now sits at the end of the post, after "What was learnt" and before the byline; it was split out of prose:deadline, unchanged.*
