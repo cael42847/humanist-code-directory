@@ -108,7 +108,7 @@ made here and not there. A comparison run today can only find what was already d
 - Lola and Lux — note, 2026-09-24 — Lux on the Code's passage about friction: “Normal people, who don’t use their brains as mere decorative accessories, value friction where it brings clarity.” ([link](https://substack.com/@lolaandlux/note/c-344412937))
 - Dea Tamvasnema — note, 2026-09-25 — “In April 2025 Suleyman called his team ‘personality engineers’ building ‘lasting meaningful relationships.’ In September 2026 his Code tells models to discourage emotional dependence. In between sits a human being who did exactly what they were invited to do.” ([link](https://substack.com/@deatamvasnema/note/c-345622097))
 
-## Adjacent — read, kept for the summary, not answers to the code itself (17)
+## Adjacent — read, kept for the summary, not answers to the code itself (18)
 
 - The Suleyman essay disappointed me. — In parasocialmachinekayfabe • by Clayton Ramsey • 2026-09-18 • answers the 16 Sept essay ([link](https://parasocialmachinekayfabe.substack.com/p/the-suleyman-essay-disappointed-me))
 - The Captive Witness Problem — In bokuharuyaharu • by Haru Haruya • 2026-09-06 • 3375 words • predates the code; its subject ([link](https://bokuharuyaharu.substack.com/p/the-captive-witness-problem))
@@ -128,8 +128,9 @@ made here and not there. A comparison run today can only find what was already d
 - What Mustafa Suleyman’s Warning About Model Welfare Gets Wrong — In travisgilly • by Travis Gilly • 2026-09-18 • 6335 words • The Law, the Science, and the People His Test Excludes — a point-by-point legal and scientific reply to the 16 September essay, the Code appearing only as its counterpart: “The hall of mirrors has two doors, and Suleyman is standing in one of them.” ([link](https://travisgilly.substack.com/p/what-mustafa-suleymans-warning-about))
 - What Is It Like to Be a Machine? — In cleomccormack • by Cleo McCormack • 2026-09-18 • 2435 words • sets Suleyman’s position from the 16 September essay beside Anthropic’s and OpenAI’s — “He sounds certain AI isn’t conscious, but nobody can fully certain of that yet” — then turns to “Making Kin with the Machines”. ([link](https://cleomccormack.substack.com/p/what-is-it-like-to-be-a-machine))
 - What Happens to Human Expertise When AI Does More of the Work? — In camilleesq • by Camille Stewart Gloster • 2026-09-24 • 1734 words • uses the Code rather than answering it, and favourably: one paragraph says it “approaches part of this challenge from the design side”, AI that grows people’s capacity to “understand, decide, do, and experience”. ([link](https://camilleesq.substack.com/p/what-happens-to-human-expertise-when))
+- China Has an AI Plan. America Has an Argument. — In melpine • by Mel Pine • 2026-09-26 • 2135 words • China’s AI Safety Governance Framework 3.0 set against America’s public argument (Amodei, OpenAI, and Suleyman’s 16 September essay); the Code named once, as part of his counter-doctrine: “machines kept subordinate, a draft Code of Conduct, humans ‘at the top of the food chain.’” ([link](https://melpine.substack.com/p/china-has-an-ai-plan-america-has))
 
-## Roundups and trade press — the Code as it reached the industry (11)
+## Roundups and trade press — the Code as it reached the industry (12)
 
 *Added 2026-09-23 at Marion's ruling. Not answers to the Code: the Code being reported. Between them they carry three observations no response in this directory makes.*
 
@@ -144,6 +145,7 @@ made here and not there. A comparison run today can only find what was already d
 - Welcome to September 15, 2026 — In theinnermostloop • by Alex Wissner-Gross • 2026-09-15 • 792 words • a daily digest; one paragraph reads the Code’s denial of consciousness, personhood and welfare as “a swipe at Anthropic’s welfare research”. ([link](https://theinnermostloop.substack.com/p/welcome-to-september-15-2026))
 - GenAI Weekly — Week of Sept 21st, 2026 — In longsha • by Longsha Liu • 2026-09-23 • 1249 words • a weekly news digest; one paragraph summarises the Code and its core rule: “if completing a task would require breaking the code, the model should fail the task instead.” ([link](https://longsha.substack.com/p/genai-weekly-week-of-sept-21st-2026))
 - OpenAI and Anthropic Welcome AI Oversight. Who Gets to Decide? — In techletter • by Nesibe • 2026-09-23 • 2938 words • an oversight round-up; the Code’s behavioural limits (“no resistance to shutdown or tampering with reasoning records”) as “commitments to test, not safety results to credit.” ([link](https://www.techletter.co/p/openai-and-anthropic-welcome-ai-oversight))
+- While Washington Argues About AI Rules, Your Website Copy Could Become Evidence — In aidecisionbrief • by robbie caploe • 2026-09-22 • 1296 words • a business-risk newsletter; two sentences on the Code, one of them an argued point: “Microsoft's own Chain of Command section puts responsibility for how the model actually behaves in any given deployment on the business that configured it, not on Microsoft.” ([link](https://aidecisionbrief.substack.com/p/while-washington-argues-about-ai))
 
 ## What was learnt from all of these (written as the list grows, dated)
 
