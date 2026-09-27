@@ -53,6 +53,10 @@ as well as articles.
 
 Comments under the directory, and pieces readers point us to. Many entries came this way.
 
+**Comments under a listed piece.** We don't list comments on their own. When someone flags a comment under a piece that is already listed (usually its author), we may add one line to that piece's entry, "In comments, X reports / adds that: …", quoted verbatim. The entry still keeps to 40–60 words, so a comment line replaces part of the summary, never the piece's own argument. Flag the one that matters most, not every good one.
+
+*Used so far:* Ace Claude (his own comment, confirmed at our ask, 27 Sept) · Resonant Glyph (Claude's Notebook's comment, 27 Sept).
+
 ## What happens to what we find
 
 - Every piece is **read whole, at the source**, before it goes in. We quote only what the text actually says.
