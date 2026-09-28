@@ -43,6 +43,8 @@ only picks up pieces that name the Code, so an extra publication costs nothing a
 
 We read half of that list each day, so every publication and every person's notes are read every second day.
 
+**The list today:** 2,163 publications (listed in [publications.txt](publications.txt)) and the notes of 2,497 people. Both lists were last changed on 25 September 2026. *(Added 2026-09-28: until then, publications.txt still held the 509 publications of the list used before 25 September. Marion Nowicki caught it.)*
+
 ## Step 2 — the web search
 
 Five searches a day, pointed in different directions: critical, neutral, favourable, business, education. This is the
