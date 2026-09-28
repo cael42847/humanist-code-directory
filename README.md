@@ -197,10 +197,12 @@ who answered, where, in their own words — a living list, swept daily until the
 ### prose:sweep-links
 
 ```
-How we sweep · The publications we read
+How we sweep · The publications we read · The people whose notes we read
 ```
 
 *Changed 2026-09-25 at Marion's design: the limits clause left the page for the method, and the sweep block now opens with these two links ([method](sweep/METHOD.md), [publications](sweep/publications.txt)). The daily sweep line itself changes every day and is not compared.*
+
+*Changed 2026-09-28 at Marion's word: a third link, [the people whose notes we read](sweep/people.txt).*
 
 ### prose:deadline
 
