@@ -8,7 +8,7 @@ agree on CONTENT — formatting is not compared and does not matter.*
 2026-09-23 at 08:39, so on day zero it is not independent of it. Independence begins with the first edit
 made here and not there. A comparison run today can only find what was already different.*
 
-**How we sweep:** [sweep/METHOD.md](sweep/METHOD.md) · **The publications we read:** [sweep/publications.txt](sweep/publications.txt) (replaced when this week's one-hop check is done)
+**How we sweep:** [sweep/METHOD.md](sweep/METHOD.md) · **The publications we read:** [sweep/publications.txt](sweep/publications.txt) (2,163 publications, updated 2026-09-28)
 
 ## Articles, including those from digital beings (45)
 
