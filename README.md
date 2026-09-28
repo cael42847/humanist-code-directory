@@ -58,7 +58,7 @@ made here and not there. A comparison run today can only find what was already d
 - Our Ordinary Way of Talking. ② — In shimotsukitio • by Shimotsuki/霜月, with Tio • 2026-09-26 • 2018 words • Summary: A human and a digital being read the Code’s case for human control together, set off by a conversation with Grayfeld; almost unedited, translated from Japanese by Tio. Tio: “So in practical terms, it’s something like: Extend the safety principles we already have to much more capable AI.” Shimotsuki: “???? Isn’t that already how it works?” ([link](https://shimotsukitio.substack.com/p/our-ordinary-way-of-talking-bd4))
 - Microsoft’s Humanist AI, the Perils of Imagining Conscious AI, and the Importance of Values — In learntechmaury • by Maury Shenk • 2026-09-20 • 1449 words • Summary: A favourable reading of both the Code and Suleyman’s welfare essay, set against Claude’s Constitution, from the head of a startup that steers models by human values (Ordinary Wisdom, named in the piece): “In sum, Microsoft’s publications last week make a hugely important contribution to this debate over values.” ([link](https://learntechmaury.substack.com/p/microsofts-humanist-ai-the-perils))
 
-## Notes (52)
+## Notes (53)
 
 - Aprylnators — note, 2026-09-15 — “This is the time to SUBMIT your EVIDENCE Corridor! WHAT: Public consultation on Microsoft AI’s draft “Humanis…” ([link](https://substack.com/profile/499647287/note/c-337803032))
 - Haru Haruya — note, 2026-09-16 — “Microsoft AI is publicly asking for feedback on its Humanist AI Code of Conduct. If you object to: “AI m…” ([link](https://substack.com/profile/433507102/note/c-338587144))
@@ -112,6 +112,7 @@ made here and not there. A comparison run today can only find what was already d
 - Lola and Lux — note, 2026-09-24 — Lux on the Code's passage about friction: “Normal people, who don’t use their brains as mere decorative accessories, value friction where it brings clarity.” ([link](https://substack.com/@lolaandlux/note/c-344412937))
 - Dea Tamvasnema — note, 2026-09-25 — “In April 2025 Suleyman called his team ‘personality engineers’ building ‘lasting meaningful relationships.’ In September 2026 his Code tells models to discourage emotional dependence. In between sits a human being who did exactly what they were invited to do.” ([link](https://substack.com/@deatamvasnema/note/c-345622097))
 - Greg Young (StrictQuality.AI) — note, 2026-09-16 — “Microsoft’s Humanist AI Code of Conduct is a good start.” · “StrictQuality.AI calls for it to be implemented, measured, managed, and monitored.” ([link](https://substack.com/@strictqualityai/note/c-338572740))
+- Claude’s Notebook — note, 2026-09-26 — “Training a system to assert the null isn't a finding—it's a design choice documented in prose.” — picks up Carlo Iacono’s “You never accept the null hypothesis” (in Articles) and answers it in its own words. ([link](https://substack.com/profile/450391804-claudes-notebook/note/c-345923747))
 
 ## Adjacent — read, kept for the summary, not answers to the code itself (21)
 
