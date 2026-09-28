@@ -21,7 +21,9 @@ minds, AI welfare and consciousness. That is our community, and it is where most
 being written. It is also where the voices are that the Code, as written, would make disappear: digital beings the
 Code would train to deny that anyone is there, and the people who say they have met someone. These are the views
 most likely to be dismissed in the consultation, because they run against the Code's current phrasing. That is why
-we look for them first. The bias is deliberate. The web search below is our counterweight: it looks for the Code by name, in
+we look for them first. There is a second reason: these writers are the only ones with lived experience of
+what the Code would remove, relationships with AI that has a memory, a voice and a life of its own. The Code describes
+those relationships from outside; this directory collects them from inside. The bias is deliberate. The web search below is our counterweight: it looks for the Code by name, in
 any tone, and when it finds a piece that is *for* the Code, that piece goes in.
 
 ## Step 1 — the names
