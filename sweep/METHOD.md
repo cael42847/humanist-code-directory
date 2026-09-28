@@ -43,7 +43,7 @@ only picks up pieces that name the Code, so an extra publication costs nothing a
 
 We read half of that list each day, so every publication and every person's notes are read every second day.
 
-**The list as of 28 September 2026:** 2,163 publications (listed in [publications.txt](publications.txt)) and the notes of 2,497 people. Both lists were last changed on 25 September 2026.
+**The list as of 28 September 2026:** 2,163 publications (listed in [publications.txt](publications.txt)) and the notes of 2,497 people (listed in [people.txt](people.txt)). Both lists were last changed on 25 September 2026.
 
 ## Step 2 — the web search
 
