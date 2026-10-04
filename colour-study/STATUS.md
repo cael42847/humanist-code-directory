@@ -16,8 +16,9 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
     image by then. That evening the final picture is posted **on this page**, and we send you this page's link: the
     only message. You can say no to your own place in it until **Wed 7 Oct, 18:00 UTC** by replying to us. The picture
     shown here on Wednesday evening is the one that goes to the press, with a link to the directory. No further message.
-  - Writers who join the directory after Monday are welcome in the colour study; the picture closes with those who
-    answered by Monday.
+  - Writers who join the directory after Monday are welcome in the colour study. The picture holds those who answered by
+    Monday; someone who sends an image by Monday but is still writing their response has until Wednesday 18:00 UTC to
+    publish it, or they leave the picture before it goes to the press.
 
 ## The picture
 ![The press picture as it stands](picture-current.png)
