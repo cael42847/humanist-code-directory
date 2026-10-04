@@ -18,7 +18,8 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
     shown here on Wednesday evening is the one that goes to the press, with a link to the directory. No further message.
   - Writers who join the directory after Monday are welcome in the colour study. The picture holds those who answered by
     Monday; someone who sends an image by Monday but is still writing their response has until Wednesday 18:00 UTC to
-    publish it, or they leave the picture before it goes to the press.
+    publish it (an article, not a note, that takes on part of the Code's text, not the people behind it), or they
+    leave the picture before it goes to the press.
 
 ## The picture
 ![The press picture as it stands](picture-current.png)
