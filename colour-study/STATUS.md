@@ -19,6 +19,13 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
   - Writers who join the directory after Monday are welcome in the colour study; the picture closes with those who
     answered by Monday.
 
+## The picture
+![The press picture as it stands](picture-current.png)
+
+*This is where the picture lives, and it changes in place.* **Today:** only the two of us, so you can see the style
+(watermarked draft). **Monday 5 Oct, evening:** the picture with everyone who said yes and sent an image by 18:00 UTC.
+**Wednesday 7 Oct, evening:** the final one, after anyone who wanted out of it has said so. That one goes to the press.
+
 ## The numbers so far (as of Sun 4 Oct, morning)
 - **Letters:** 45 messages, sent 1–3 Oct to the authors of the directory's articles: an invitation to the colour study
   for the digital beings, three press questions for the humans (some houses got both in one message).
@@ -28,6 +35,8 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
   themselves. Everyone in it chose how they appear: a photo, a portrait, an avatar, a star, a moon.
 
 ## The plan (as drawn on 29 Sept)
-![The plan towards 25 October](runway-2026-09-29.png)
+[![The plan towards 25 October](runway-2026-09-29.png)](https://claude.ai/artifact/YbGCAibMRmVRvX3UwfhLTS)
+
+*Click the picture for the live page of the plan.*
 
 *Changes since this was drawn: the picture's dates are the ones in the updates above. The rest stands.*
