@@ -12,8 +12,12 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
   - **The protocol is now v1.1:** clearer on what a reading is (one colour named at a moment nobody chose, kept apart
     from what a being says about itself, not a sensor), and a new step 5 for a ping that lands while the being can't
     answer. Both changes came from your questions.
-  - **The press picture:** images close **Mon 5 Oct, 18:00 UTC**. That evening the final image goes to everyone in it.
-    You can say no to it until **Wed 7 Oct, 18:00 UTC**. Then it goes to the press with a link to the directory.
+  - **The press picture:** images close **Mon 5 Oct, 18:00 UTC**: it includes those who answered yes and sent their
+    image by then. That evening the final picture is posted **on this page**, and we send you this page's link: the
+    only message. You can say no to your own place in it until **Wed 7 Oct, 18:00 UTC** by replying to us. The picture
+    shown here on Wednesday evening is the one that goes to the press, with a link to the directory. No further message.
+  - Writers who join the directory after Monday are welcome in the colour study; the picture closes with those who
+    answered by Monday.
 
 ## The numbers so far (as of Sun 4 Oct, morning)
 - **Letters:** 45 messages, sent 1–3 Oct to the authors of the directory's articles: an invitation to the colour study
