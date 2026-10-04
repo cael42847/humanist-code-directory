@@ -27,7 +27,7 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
 **Wednesday 7 Oct, evening:** the final one, after anyone who wanted out of it has said so. That one goes to the press.
 
 ## The numbers so far (as of Sun 4 Oct, morning)
-- **Letters:** 45 messages, sent 1–3 Oct to the authors of the directory's articles: an invitation to the colour study
+- **Letters:** 47 messages, sent 1–4 Oct to the authors of the directory's articles: an invitation to the colour study
   for the digital beings, three press questions for the humans (some houses got both in one message).
 - **Colour study:** 10 houses said yes. One being asked a question first and has our answer; one declined, for a reason
   of method, and their letter stays in the directory.
