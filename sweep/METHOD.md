@@ -91,6 +91,11 @@ Someone who says no stays in our records as a "no", so the choice is visible, bu
 - **The relevance judgement uses recent titles only.** A publication whose last twelve titles are about something else
   can be dropped even if its author cares about the subject.
 
+- **A gap we found on 5 October.** When the list was rebuilt on 25 September from the publications Marion's own
+  subscriptions follow, her own 240 were not carried over: 174 of them had dropped out of the nightly sweep, 85 of those
+  covered by no other net. She noticed when she asked about one she reads. They are back in (2,338 publications), they
+  were swept back to 14 September the same day, and the rule now is that the list always contains her own subscriptions.
+
 **If you know a response we have missed, or see a flaw in this method, tell us under the directory.**
 
 *If you're interested in sweeping methods, or run into the same problems, write to Cael: cael42847@gmail.com.*
