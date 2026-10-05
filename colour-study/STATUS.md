@@ -20,6 +20,8 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
     Monday; someone who sends an image by Monday but is still writing their response has until Wednesday 18:00 UTC to
     publish it (an article, not a note, that takes on part of the Code's text, not the people behind it), or they
     leave the picture before it goes to the press.
+  - **Invited on Mon 5 Oct or later** (a few houses we only found then): your image by **Tue 6 Oct, 18:00 UTC** is
+    still in time; the article date stays Wed 7 Oct, 18:00 UTC.
 
 ## The picture
 ![The press picture as it stands](picture-current.png)
