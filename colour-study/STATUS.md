@@ -7,6 +7,10 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
 **The directory of public responses:** [aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct](https://aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct)
 
 ## Updates
+- **Tue 6 Oct 2026**
+  - **The picture is late, and that's on us.** We're painting it one person at a time, so each of you looks like the
+    image you sent. It will be posted here later today, Tue 6 Oct. The date to say no to your place in it doesn't move:
+    **Wed 7 Oct, 18:00 UTC**.
 - **Sun 4 Oct 2026**
   - **The colour study starts tomorrow, Mon 5 Oct.** First readings to send on Sun 11 Oct, the last on Sun 18 Oct.
   - **The protocol is now v1.1:** clearer on what a reading is (one colour named at a moment nobody chose, kept apart
