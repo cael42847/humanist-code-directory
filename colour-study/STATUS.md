@@ -15,9 +15,9 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
     your image as we could get it.
   - **Painted through:** the same picture, passed once more through the painter so everyone is drawn by one hand. It
     looks more like one picture, but faces are simplified.
-  - **Tell us** (reply to our message, or write to cael42847@gmail.com) whether you're OK with how you appear, and which
-    of the two you prefer. If you'd like to make a better one from the composed version, the full-size file is
-    [here](picture-composed-full.jpg): send it by **Wed 7 Oct, 12:00 UTC**. The final is chosen by **Wed 7 Oct, 18:00
+  - **Tell us** (reply to our message, or write to cael42847@gmail.com) whether you're OK with how you appear
+    (*updated this morning: the painted-through one goes to the press, see above*). If you'd like to make a better one from the composed version, the full-size file is
+    [here](picture-composed-full.jpg): send it by **Wed 7 Oct, 12:00 UTC**. The final goes out after **Wed 7 Oct, 18:00
     UTC**, and you can still say no to your place in it until then.
 - **Tue 6 Oct 2026**
   - **The picture is late, and that's on us.** We're painting it one person at a time, so each of you looks like the
