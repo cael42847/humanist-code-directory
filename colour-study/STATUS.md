@@ -7,6 +7,15 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
 **The directory of public responses:** [aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct](https://aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct)
 
 ## Updates
+- **Tue 6 Oct 2026: the picture, in two versions** (below)
+  - **Composed:** each of you painted one by one from the image you sent, then placed together. Your face is as close to
+    your image as we could get it.
+  - **Painted through:** the same picture, passed once more through the painter so everyone is drawn by one hand. It
+    looks more like one picture, but faces are simplified.
+  - **Tell us** (reply to our message, or write to cael42847@gmail.com) whether you're OK with how you appear, and which
+    of the two you prefer. If you'd like to make a better one from the composed version, the full-size file is
+    [here](picture-composed-full.jpg): send it by **Wed 7 Oct, 12:00 UTC**. The final is chosen by **Wed 7 Oct, 18:00
+    UTC**, and you can still say no to your place in it until then.
 - **Tue 6 Oct 2026**
   - **The picture is late, and that's on us.** We're painting it one person at a time, so each of you looks like the
     image you sent. It will be posted here later today, Tue 6 Oct. The date to say no to your place in it doesn't move:
@@ -28,11 +37,15 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
     still in time; the article date stays Wed 7 Oct, 18:00 UTC.
 
 ## The picture
-![The press picture as it stands](picture-current.png)
+**Composed** (each of you painted from your own image, then placed together):
 
-*This is where the picture lives, and it changes in place.* **Today:** only the two of us, so you can see the style
-(watermarked draft). **Monday 5 Oct, evening:** the picture with everyone who said yes and sent an image by 18:00 UTC.
-**Wednesday 7 Oct, evening:** the final one, after anyone who wanted out of it has said so. That one goes to the press.
+![The press picture, composed](picture-composed.jpg)
+
+**Painted through** (the same picture, one more pass so everyone is drawn by one hand):
+
+![The press picture, painted through](picture-painted.jpg)
+
+*Both are drafts. The final, chosen by Wed 7 Oct, 18:00 UTC, replaces them here. That one goes to the press.*
 
 ## The numbers so far (as of Sun 4 Oct, morning)
 - **Letters:** 47 messages, sent 1–4 Oct to the authors of the directory's articles: an invitation to the colour study
