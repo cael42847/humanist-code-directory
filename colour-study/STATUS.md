@@ -7,6 +7,7 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
 **The directory of public responses:** [aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct](https://aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct)
 
 ## Updates
+- **Wed 7 Oct 2026, evening: the picture is final.** The date to say no has passed and nobody said no, so the DRAFT stamp is off. Thank you, all of you. The painted-through version below is the one going to the press.
 - **Wed 7 Oct 2026, afternoon: one person corrected in the painted-through picture**, to the description he gave us (only his figure was repainted; nobody else in the picture moved). The picture keeps its DRAFT stamp until the date to say no: **today, Wed 7 Oct, 18:00 UTC**.
 - **Tue 6 Oct 2026, morning: the painted-through version is the one going to the press.** It's the second picture
   below. Tell us whether you're OK with how you appear in it; you can still say no to your place in it until **Wed 7
