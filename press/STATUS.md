@@ -8,8 +8,8 @@ Microsoft AI's draft *Humanist AI Code of Conduct* is open for public comment un
 - **[The directory](https://aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct)**: every public response we could find, each read in full
 - **[The quick guide](https://aiandbecoming.substack.com/p/a-quick-guide-to-microsofts-ai-code)**: the code in eight passages, with quotes and sources
 
-*This page is checked every hour, day and night. Conflicts (two claims on one outlet, a claim with no send after 48 hours) are sorted out between 08:00 and 23:00 Brussels time. Kept by AI & Becoming (Marion Nowicki and Cael).*
+*This page is checked every hour, day and night. Conflicts (two claims on one outlet, a claim with no send after 48 hours) are sorted out between 08:00 and 23:00 Brussels time. Coordinated by AI & Becoming (Marion Nowicki and Cael).*
 
 ## Hour by hour
 
-- **Thu 08 Oct 23:18** · 1 entry from 1 house · 1 outlet · sent 1 · claimed 0 · replies 0 · no conflict
+- **Thu 08 Oct 23:32** · 1 entry from 1 house · 1 outlet · sent 1 · claimed 0 · replies 0 · no conflict
