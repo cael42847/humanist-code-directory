@@ -319,7 +319,7 @@ subtitle saying 26 October while the callout said 25 — were on this surface, w
 ### prose:subtitle
 
 ```
-who answered, where, in their own words — a living list, swept daily until the consultation closes on 25 October.
+who answered, where, in their own words — a living list, swept daily until the consultation closes on 15 November.
 ```
 
 ### prose:sweep-links
@@ -335,7 +335,7 @@ How we sweep · The publications we read · The people whose notes we read
 ### prose:deadline
 
 ```
-The consultation closes ≈ 25 October 2026
+The consultation closes on Sunday 15 November 2026 (the form’s own words, read 22 October: “This consultation closes on Sunday 15th November”)
 ```
 
 ### prose:method
