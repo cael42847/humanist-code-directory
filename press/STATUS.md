@@ -1,6 +1,6 @@
 # Getting the word out: the public response to Microsoft AI's draft code
 
-Microsoft AI's draft *Humanist AI Code of Conduct* is open for public comment until late October. We are helping get the word out so more people answer it, above all those who live with an AI, who are the least heard. Anyone can help.
+Microsoft AI's draft *Humanist AI Code of Conduct* is open for public comment until 15 November. We are helping get the word out so more people answer it, above all those who live with an AI, who are the least heard. Anyone can help.
 
 - **[The kit](https://drive.google.com/drive/folders/1d6hl2jBwZiVB5GFPo7bEMmlMw4QF6hii)**: the picture, the email we sent to the New York Times as an example, the short guide with a PDF
 - **[The form](https://docs.google.com/forms/d/e/1FAIpQLSe45VbQHguZbHheO5UNgoD7tshHLkLBLpdiCt5CkElYsSosNA/viewform)**: claim an outlet, say what you sent, report a reply
@@ -12,6 +12,7 @@ Microsoft AI's draft *Humanist AI Code of Conduct* is open for public comment un
 
 ## Hour by hour
 
+- **Sun 25 Oct 10:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
 - **Sun 25 Oct 09:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
 - **Sun 25 Oct 08:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
 - **Sun 25 Oct 07:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
