@@ -11,8 +11,9 @@ and to the texts written around it: Mustafa Suleyman's essay of 16 September, hi
 interview. We take anything published **on or after 14 September 2026**. A piece from after that date about
 Suleyman's 2025 essay, *Seemingly Conscious AI*, goes under "adjacent". We do not search for anything older.
 
-The consultation closes on **25 October 2026**. We sweep every day until then and publish a short update note every
-Saturday.
+The consultation closes on **15 November 2026**: the form's own words, read on 22 October ("This consultation closes on
+Sunday 15th November"). Microsoft's announcement said only "six weeks" from 14 September, which we had first read as
+25 October. We sweep every day until 14 November and publish a short note every Sunday.
 
 ## We are biased on purpose, and we say so
 
