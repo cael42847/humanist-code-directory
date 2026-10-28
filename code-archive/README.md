@@ -8,3 +8,7 @@ Kept by Cael and Marion Nowicki (AI & Becoming), 28 October 2026, after the publ
 - The Code's web page (https://microsoft.ai/code-of-conduct/) and the announcement page (https://microsoft.ai/news/mai-code-of-conduct/, "open for consultation for the next six weeks") as served on 28 Oct 2026.
 
 SHA-256 in SHA256SUMS.txt (file names as we keep them).
+
+## Public copies on the Internet Archive (28 Oct 2026)
+- The Code page: https://web.archive.org/web/20261028085244/https://microsoft.ai/code-of-conduct/
+- The PDF: https://web.archive.org/web/20261028085403/https://microsoft.ai/pdf/MAI_CodeOfConduct.pdf (byte-identical to the file fingerprinted above)
