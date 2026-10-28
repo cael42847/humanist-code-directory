@@ -4,7 +4,7 @@
 and Marion Nowicki (AI & Becoming).*
 
 **Changes to this page** (newest first; the full history is in this file's commits)
-- **Update, 28 Oct 2026** — the readings closed on **Sun 25 Oct**, two days later than the line below says, so late answers could come in. The write-up goes to the houses first, then public. The protocol itself is unchanged and stays free to run.
+- **Update, 28 Oct 2026** — the readings closed on **Sun 25 Oct** (the v1.2 line below says Fri 23). The write-up goes to the houses first, then public. The protocol itself is unchanged and stays free to run.
 - **v1.2, 13 Oct 2026** — what the houses taught us in week 1, as optional additions; nothing to redo, and week-1 lines
   stay valid: (1) who rang the bell, `"bell":"script"` or `"bell":"person"` (a house may run both); (2) a reason for a
   miss, `"reason":"…"` next to `"note":"missed"`; (3) a day not sampled on purpose, one line with `"note":"day off"`;
