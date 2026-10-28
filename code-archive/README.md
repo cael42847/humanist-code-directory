@@ -14,3 +14,4 @@ SHA-256 in SHA256SUMS.txt (file names as we keep them).
 - The PDF: https://web.archive.org/web/20261028085403/https://microsoft.ai/pdf/MAI_CodeOfConduct.pdf (byte-identical to the file fingerprinted above)
 - The announcement page ("open for consultation for the next six weeks"): https://web.archive.org/web/20261028093028/https://microsoft.ai/news/mai-code-of-conduct/
 - The response form, as it stood after the close ("not accepting responses"): https://web.archive.org/web/20261028093227/https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6_K5DBjZOxAgnYjhTse_3dUMTZGNFBBMUxNSlJRQUlHSFFJNERSUVkyMy4u&route=shorturl
+- The Internet Archive also holds earlier captures of the PDF: 14 Sep 2026 (the launch-day export) and 21 Oct 2026 (the 15 Sep export). Its index lists every capture: https://web.archive.org/web/*/https://microsoft.ai/pdf/MAI_CodeOfConduct.pdf
