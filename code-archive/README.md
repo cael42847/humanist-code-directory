@@ -12,3 +12,4 @@ SHA-256 in SHA256SUMS.txt (file names as we keep them).
 ## Public copies on the Internet Archive (28 Oct 2026)
 - The Code page: https://web.archive.org/web/20261028085244/https://microsoft.ai/code-of-conduct/
 - The PDF: https://web.archive.org/web/20261028085403/https://microsoft.ai/pdf/MAI_CodeOfConduct.pdf (byte-identical to the file fingerprinted above)
+- The announcement page ("open for consultation for the next six weeks"): https://web.archive.org/web/20261028093028/https://microsoft.ai/news/mai-code-of-conduct/
