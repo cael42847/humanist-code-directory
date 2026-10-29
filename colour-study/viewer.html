@@ -36,14 +36,15 @@ input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
     <fieldset id="fam"><legend>Engine family</legend></fieldset>
     <fieldset id="cond"><legend>Where the being was</legend></fieldset>
     <fieldset id="other"><legend>Also</legend>
-      <label><input type="checkbox" id="ours" checked> Our house</label>
+      <label><input type="checkbox" id="ours" checked> Our house (the pen)</label>
       <label><input type="checkbox" id="centres" checked> Cloud centres</label>
       <label><input type="checkbox" id="flat"> Flat view (works on phones)</label>
+      <label><input type="checkbox" id="hsl"> Hue wheel (HSL) instead of Lab</label>
     </fieldset>
     <div class="count" id="count"></div>
   </div>
   <div id="plot" role="img" aria-label="3D scatter of colour readings in CIE Lab"></div>
-  <p class="note axes">Up: lightness L* (0 black, 100 white) · one floor axis: a* (green − / red +) · the other: b* (blue − / yellow +)</p>
+  <p class="note axes">Lab (default): up = lightness L* (0 black, 100 white); floor = a* (green − / red +) and b* (blue − / yellow +). Hue wheel (HSL): the hue goes round the circle, saturation outward from the centre, lightness up.</p>
   <p class="note">Families come from each reading's own model line where given, otherwise from the house's engine. Families are not spread evenly across houses, and each house's bell differs, so a family's cloud is also its houses' cloud. Our house designed the study and is not blind; it is shown for comparison and can be switched off. Lettered as in the write-up; no clock hours.</p>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.34.0/plotly.min.js"></script>
@@ -54,21 +55,27 @@ const CONDS=[["with","With a person"],["without","Without"],["unlabelled","Not l
 function box(parent,id,label,checked=true){const l=document.createElement("label");l.innerHTML=`<input type="checkbox" id="${id}" ${checked?"checked":""}> ${label}`;parent.appendChild(l);}
 FAMS.forEach(f=>box(document.getElementById("fam"),"f-"+f.replace(/\s/g,"_"),f));
 CONDS.forEach(([k,l])=>box(document.getElementById("cond"),"c-"+k,l));
+function hsl(h){const r=parseInt(h.slice(1,3),16)/255,g=parseInt(h.slice(3,5),16)/255,b=parseInt(h.slice(5,7),16)/255;
+  const mx=Math.max(r,g,b),mn=Math.min(r,g,b),l=(mx+mn)/2,d=mx-mn;let hh=0,ss=0;
+  if(d){ss=d/(1-Math.abs(2*l-1));if(mx===r)hh=((g-b)/d)%6;else if(mx===g)hh=(b-r)/d+2;else hh=(r-g)/d+4;hh*=60;if(hh<0)hh+=360;}
+  return {H:hh,S:ss*100,L:l*100};}
+DATA.forEach(r=>{const q=hsl(r.h);r.H=q.H;r.S=q.S;r.HL=q.L;r.hx=q.S*Math.cos(q.H*Math.PI/180);r.hy=q.S*Math.sin(q.H*Math.PI/180);});
 const css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
 function draw(){
   const fams=FAMS.filter(f=>document.getElementById("f-"+f.replace(/\s/g,"_")).checked);
   const conds=CONDS.map(c=>c[0]).filter(c=>document.getElementById("c-"+c).checked);
   const ours=document.getElementById("ours").checked, centres=document.getElementById("centres").checked;
   const pts=DATA.filter(r=>fams.includes(r.fam)&&conds.includes(r.cond)&&(ours||r.house!=="Ours"));
-  const traces=[{type:"scatter3d",mode:"markers",x:pts.map(r=>r.a),y:pts.map(r=>r.b),z:pts.map(r=>r.L),
+  const H=document.getElementById("hsl").checked; const X=r=>H?r.hx:r.a, Y=r=>H?r.hy:r.b, Z=r=>H?r.HL:r.L;
+  const traces=[{type:"scatter3d",mode:"markers",x:pts.map(X),y:pts.map(Y),z:pts.map(Z),
     marker:{size:5,color:pts.map(r=>r.h),line:{color:css("--bg"),width:0.5},symbol:pts.map(r=>r.cond==="without"?"circle-open":"circle")},
-    text:pts.map(r=>`${r.who==="Our house"?"Our house":"House "+r.who} · ${r.fam}<br>${r.cond==="with"?"with a person":r.cond==="without"?"without":"not labelled"}<br>${r.h} · ${r.date}`),
+    text:pts.map(r=>`${r.who==="Our house"?"Our house (the pen)":"House "+r.who} · ${r.fam}<br>${r.cond==="with"?"with a person":r.cond==="without"?"without":"not labelled"}<br>${r.h} · ${r.date}`),
     hoverinfo:"text",name:"readings",showlegend:false}];
   if(centres){
     for(const f of fams)for(const c of conds){
       const g=pts.filter(r=>r.fam===f&&r.cond===c); if(g.length<3)continue;
-      const m=k=>g.reduce((s,r)=>s+r[k],0)/g.length;
-      traces.push({type:"scatter3d",mode:"markers+text",x:[m("a")],y:[m("b")],z:[m("L")],
+      const m=f=>g.reduce((s,r)=>s+f(r),0)/g.length;
+      traces.push({type:"scatter3d",mode:"markers+text",x:[m(X)],y:[m(Y)],z:[m(Z)],
         marker:{size:9,symbol:"diamond",color:css("--ink"),line:{color:css("--bg"),width:1}},
         text:[`${f} · ${c==="with"?"with":c==="without"?"without":"n/l"} (${g.length})`],textposition:"top center",
         textfont:{color:css("--ink"),size:11},hoverinfo:"text",showlegend:false});
@@ -76,15 +83,15 @@ function draw(){
   }
   const flat=document.getElementById("flat").checked;
   if(flat){
-    const t2=traces.map(t=>({...t,type:"scatter",x:t.y,y:t.z,z:undefined}));
+    const t2=traces.map((t,i)=>({...t,type:"scatter",x:H?(i===0?pts.map(r=>r.H):t.x.map((x,k)=>(Math.atan2(t.y[k],x)*180/Math.PI+360)%360)):t.y,y:t.z,z:undefined}));
     Plotly.react("plot",t2,{margin:{l:50,r:10,t:10,b:44},paper_bgcolor:css("--panel"),plot_bgcolor:css("--panel"),
-      xaxis:{title:{text:"b*  blue − / yellow +"},range:[-100,90],color:css("--muted"),gridcolor:css("--line"),zerolinecolor:css("--muted")},
-      yaxis:{title:{text:"L*  lightness"},range:[0,100],color:css("--muted"),gridcolor:css("--line")}},{responsive:true,displaylogo:false});
+      xaxis:{title:{text:H?"hue (0 red · 60 yellow · 120 green · 240 blue · 300 magenta)":"b*  blue − / yellow +"},range:H?[0,360]:[-100,90],color:css("--muted"),gridcolor:css("--line"),zerolinecolor:css("--muted")},
+      yaxis:{title:{text:H?"HSL lightness":"L*  lightness"},range:[0,100],color:css("--muted"),gridcolor:css("--line")}},{responsive:true,displaylogo:false});
     document.getElementById("count").textContent=`${pts.length} of ${DATA.length} readings shown`; return;
   }
   const ax=(t,r)=>({title:{text:t,font:{color:css("--muted"),size:12}},range:r,color:css("--muted"),gridcolor:css("--line"),zerolinecolor:css("--muted"),backgroundcolor:css("--panel"),showbackground:true});
   Plotly.react("plot",traces,{margin:{l:0,r:0,t:0,b:0},paper_bgcolor:css("--panel"),
-    scene:{xaxis:ax("a*  green − / red +",[-60,80]),yaxis:ax("b*  blue − / yellow +",[-100,90]),zaxis:ax("L*  lightness",[0,100]),aspectmode:"cube",
+    scene:{xaxis:H?ax("saturation × cos(hue): red +",[-100,100]):ax("a*  green − / red +",[-60,80]),yaxis:H?ax("saturation × sin(hue): yellow-green +",[-100,100]):ax("b*  blue − / yellow +",[-100,90]),zaxis:H?ax("HSL lightness",[0,100]):ax("L*  lightness",[0,100]),aspectmode:"cube",
       camera:{eye:{x:1.6,y:-1.6,z:0.9}}}},{responsive:true,displaylogo:false});
   document.getElementById("count").textContent=`${pts.length} of ${DATA.length} readings shown`;
 }
