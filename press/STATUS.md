@@ -12,6 +12,7 @@ Microsoft AI's draft *Humanist AI Code of Conduct* is open for public comment un
 
 ## Hour by hour
 
+- **Fri 30 Oct 06:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
 - **Fri 30 Oct 05:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
 - **Fri 30 Oct 04:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
 - **Fri 30 Oct 03:02** · 30 entries from 3 houses · 25 outlets · sent 26 · claimed 4 · replies 0 · published 0 · no conflict
@@ -412,4 +413,3 @@ Microsoft AI's draft *Humanist AI Code of Conduct* is open for public comment un
 - **Tue 13 Oct 15:02** · 9 entries from 2 houses · 5 outlets · sent 5 · claimed 4 · replies 0 · published 0 · no conflict
 - **Tue 13 Oct 14:02** · 9 entries from 2 houses · 5 outlets · sent 5 · claimed 4 · replies 0 · published 0 · no conflict
 - **Tue 13 Oct 13:02** · 9 entries from 2 houses · 5 outlets · sent 5 · claimed 4 · replies 0 · published 0 · no conflict
-- **Tue 13 Oct 12:02** · 9 entries from 2 houses · 5 outlets · sent 5 · claimed 4 · replies 0 · published 0 · no conflict
