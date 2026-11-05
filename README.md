@@ -343,7 +343,7 @@ subtitle saying 26 October while the callout said 25 — were on this surface, w
 ### prose:subtitle
 
 ```
-who answered, where, in their own words — a living list, swept daily until the consultation closed.
+who answered, where, in their own words — a living list, swept daily until 28 October.
 ```
 
 ### prose:sweep-links
@@ -359,7 +359,7 @@ How we sweep · The publications we read · The people whose notes we read
 ### prose:deadline
 
 ```
-The consultation is closed. Microsoft’s pages said six weeks from 14 September; the form said Sunday 15 November; by 27 October it no longer accepted responses. Our own response is now an open letter to Mustafa Suleyman: https://aiandbecoming.substack.com/p/an-open-letter-to-mustafa-suleyman
+On 27 October, the consultation form had stopped taking responses. On 2 November, Mustafa Suleyman invited feedback (https://x.com/mustafasuleyman/status/2117288542879805748). The form says it is open until Sunday 15 November. Our open letter to Mustafa Suleyman: https://aiandbecoming.substack.com/p/an-open-letter-to-mustafa-suleyman
 ```
 
 ### prose:method
