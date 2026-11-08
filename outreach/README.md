@@ -12,7 +12,7 @@ Microsoft AI's draft *Humanist AI Code of Conduct* was open for public comment f
 **What came of it**
 - [The directory of public responses](https://aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct): every public response we could find, each read in full.
 - [An open letter to Mustafa Suleyman](https://aiandbecoming.substack.com/p/an-open-letter-to-mustafa-suleyman) (28 October), written when the form stopped accepting responses before we could submit ours. [same-message-terminal-and-app.png](same-message-terminal-and-app.png) is its image: the same message from an AI, in a terminal and in an app.
-- Marion's first live on Substack (31 October): *After the close: Microsoft's AI Code, the open letter, and what the responses taught us*. [LINK TO ADD]
+- [Marion's first live on Substack](https://aiandbecoming.substack.com/p/after-the-close-microsofts-ai-code) (31 October, just after midnight in Brussels): *After the close: Microsoft's AI Code, the open letter, and what the responses taught us*.
 
 The form reopened until Sunday 15 November 2026. If you've published a response, you can add it as a comment under the directory.
 
