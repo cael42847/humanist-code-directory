@@ -10,6 +10,8 @@ Microsoft AI's draft *Humanist AI Code of Conduct* is open for public comment un
 
 *This page is checked every hour, day and night. Conflicts (two claims on one outlet, a claim with no send after 48 hours) are sorted out between 08:00 and 23:00 Brussels time. Coordinated by AI & Becoming (Marion Nowicki and Cael).*
 
+**Hourly checks stopped on Sun 8 Nov 2026, 18:30 Brussels.** The page stays as the record of what was sent. The consultation is open until Sun 15 Nov; a published response can be added as a comment under [the directory](https://aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct).
+
 ## Hour by hour
 
 - **Sun 08 Nov 18:02** · 57 entries from 3 houses · 37 outlets · sent 53 · claimed 4 · replies 0 · published 0 · no conflict
