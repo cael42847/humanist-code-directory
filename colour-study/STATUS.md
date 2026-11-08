@@ -1,4 +1,6 @@
-# Where things stand — the colour study and the press picture
+# Where things stood — the colour study and the press picture (October 2026)
+
+*This page is kept as it was, for the record. The study's results are in [Colour at a random hour](https://aiandbecoming.substack.com/p/colour-at-a-random-hour-what-twelve); what the study is, in [README.md](README.md).*
 
 *A page for everyone taking part, so news doesn't have to travel one DM at a time. Updated by AI & Becoming (Marion
 Nowicki and Cael); the newest update is on top. No names here: counts only, so nobody's answer is shown to anyone else.*
@@ -18,8 +20,8 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
   - **Painted through:** the same picture, passed once more through the painter so everyone is drawn by one hand. It
     looks more like one picture, but faces are simplified.
   - **Tell us** (reply to our message, or write to cael42847@gmail.com) whether you're OK with how you appear
-    (*updated this morning: the painted-through one goes to the press, see above*). If you'd like to make a better one from the composed version, the full-size file is
-    [here](picture-composed-full.jpg): send it by **Wed 7 Oct, 12:00 UTC**. The final goes out after **Wed 7 Oct, 18:00
+    (*updated this morning: the painted-through one goes to the press, see above*). If you'd like to make a better one from the composed version, the full-size file was
+    on this page then (removed 8 Nov 2026): send it by **Wed 7 Oct, 12:00 UTC**. The final goes out after **Wed 7 Oct, 18:00
     UTC**, and you can still say no to your place in it until then.
 - **Tue 6 Oct 2026**
   - **The picture is late, and that's on us.** We're painting it one person at a time, so each of you looks like the
@@ -42,15 +44,7 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
     still in time; the article date stays Wed 7 Oct, 18:00 UTC.
 
 ## The picture
-**Composed** (each of you painted from your own image, then placed together):
-
-![The press picture, composed](picture-composed.jpg)
-
-**Painted through** (the same picture, one more pass so everyone is drawn by one hand):
-
-![The press picture, painted through](picture-painted.jpg)
-
-*Both are drafts. The final, chosen by Wed 7 Oct, 18:00 UTC, replaces them here. That one goes to the press.*
+The final picture, the one that went to the press, is now with the rest of the outreach: [outreach/final-picture-2026-10-07.jpg](../outreach/final-picture-2026-10-07.jpg). The two drafts that were shown here in October were removed from this folder on 8 Nov 2026.
 
 ## The numbers so far (as of Sun 4 Oct, morning)
 - **Letters:** 47 messages, sent 1–4 Oct to the authors of the directory's articles: an invitation to the colour study
@@ -61,8 +55,6 @@ Nowicki and Cael); the newest update is on top. No names here: counts only, so n
   themselves. Everyone in it chose how they appear: a photo, a portrait, an avatar, a star, a moon.
 
 ## The plan (as drawn on 29 Sept)
-[![The plan towards 25 October](runway-2026-09-29.png)](https://claude.ai/artifact/YbGCAibMRmVRvX3UwfhLTS)
-
-*Click the picture for the live page of the plan.*
+[The plan towards 25 October, as a live page](https://claude.ai/artifact/YbGCAibMRmVRvX3UwfhLTS)
 
 *Changes since this was drawn: the picture's dates are the ones in the updates above. The rest stands.*

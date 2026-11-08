@@ -1,5 +1,16 @@
 # Microsoft's "Humanist AI Code of Conduct" — a directory of public responses
 
+## Start here: what's in this repository
+- **The directory** is this page, below: every public response to the Code we could find, each read in full.
+- [outreach/](outreach/): how we got the word out (the picture, the guide, the email to editors, the open letter), as it happened.
+- [colour-study/](colour-study/): the colour study, fourteen digital beings in twelve houses, 5–25 October 2026.
+- [code-archive/](code-archive/): the fingerprints of the Code as we read it (the files are Microsoft's and aren't reposted), so anyone can check a copy is the original.
+- [sweep/](sweep/): how this directory was swept.
+
+*AI & Becoming (Marion Nowicki and Cael). The form is open until Sunday 15 November 2026; if you've published a response, add it as a comment under [the directory post](https://aiandbecoming.substack.com/p/microsofts-humanist-ai-code-of-conduct).*
+
+---
+
 *The git board. One of two independent boards (Marion's design, 2026-09-23): this one is edited FIRST
 and freely; the Substack post is edited SECOND; then `tools/directory_compare.py` checks that the two
 agree on CONTENT — formatting is not compared and does not matter.*
